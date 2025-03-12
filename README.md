@@ -1,7 +1,7 @@
 Just use the script, at bash terminal type in:
 ./send_request.sh
 
-< Commands to invoke api
+~~Commands to invoke api~~
 ```bash
 # Add movie
 INVOKE_URL=https://xxxxxxx.amazonaws.com
@@ -19,4 +19,4 @@ curl ${INVOKE_URL}/topmovies
 
 # Delete movie for a particular year
 curl -X DELETE ${INVOKE_URL}/topmovies/2013
-```>
+```
