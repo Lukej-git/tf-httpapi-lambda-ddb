@@ -1,5 +1,5 @@
 Just use the script, at bash terminal type in:
-./send_request.sh
+```./send_request.sh```
 
 ~~Commands to invoke api~~
 ```bash
